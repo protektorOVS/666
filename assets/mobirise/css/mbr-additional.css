@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Arapey:400,400i);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @primaryColor: #D901ED;
 @secondaryColor: #46004C;
@@ -6,7 +6,7 @@
 @infoColor: #1A5CEB;
 @warningColor: #E0C119;
 @dangerColor: #EB5A1A;
-@titleFont: 'Arapey', sans-serif;
+@titleFont: 'Oswald', sans-serif;
 @subtitleFont: 'Lato', sans-serif;
 @textFont: 'Lato', sans-serif;
 @isRoundedButtons: true;
