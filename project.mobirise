@@ -19,7 +19,7 @@
       }
     },
     "versionFirst": "3.10.5",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -36,20 +36,28 @@
       },
       "components": [
         {
-          "title": "Text with heading",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "title4": "<a href=\"http://mobirise.com\">mitchel jobs</a>",
+          "subtitle4": "<a href=\"http://mobirise.com\">application</a>",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
+          "media4": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@THEME_PATH@/components/_images/news_item_4.jpg"
+            }
+          },
+          "date4": "09/09/2016",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "text9",
-          "_anchor": "text9-9",
+          "_name": "news1",
+          "_anchor": "news1-a",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": 2,
             "paddingBottom": 2,
             "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/2.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -57,11 +65,48 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#151515"
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showImages": true,
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": true,
+            "showDate": true
           },
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit deserunt expedita ea quibusdam sapiente doloremque, molestias tenetur, quae quasi repudiandae, nulla iure fugiat aliquid laboriosam!",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" style=\"background-color: rgb(255, 255, 255);\">\n    <div class=\"intro page_head text-center\" style=\"padding-top: 80px; padding-bottom: 80px;\">\n        \n        <div class=\"container\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\">\n                    <blockquote>\n                       <div class=\"rss_container\"><h2>Яндекс.Новости: Главные новости<a href=\"http://news.yandex.ru/index.html\" target=\"_blank\"><img src=\"https://company.yandex.ru/i/50x23.gif\" style=\"float:right; border:0px;\"></a><hr style=\"color:#c0c0c0;height:1px;border:0px;background:#c0c0c0;\"><div style=\"color:#c0c0c0;font-size:0.5em;font-weight:normal;padding-bottom:50px\">Первая в России служба автоматической обработки и систематизации новостей. Сообщения ведущих российских и мировых СМИ. Обновление в режиме реального времени 24 часа в сутки.</div></h2><a name=\"edc3100a95a238b8aa2478de8f6091d6\"></a><div class=\"rss\"><table><tbody><tr><td style=\"padding-left:30px\"><h3><a href=\"http://news.yandex.ru/yandsearch?cl4url=www.rbc.ru%2Frbcfreenews%2F58abe2589a7947f8632c027b\" target=\"_blank\">СМИ опубликовали фото с места падения самолета на ТЦ в Мельбурне</a></h3>Channel 9 и AFP опубликовали фотографии с места падения легкомоторного самолета на торговый центр в пригороде Мельбурна в Австралии. Инцидент произошел во вторник, 21 февраля. Пятиместный Beechcraft King Air, на борту которого были пять человек, вылетел из аэропорта Эссендон. <div class=\"rssdate\"> <br> 21 февраля 2017 10:08:33</div></td></tr></tbody></table>\n\t\t\t\t\t\t\t\t<a href=\"http://news.yandex.ru/yandsearch?cl4url=www.rbc.ru%2Frbcfreenews%2F58abe2589a7947f8632c027b\" target=\"_blank\" class=\"gotolink\"> перейти к источнику <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVElEQVR42n3PgQkAIAhEUXdqJ3dqJ3e6IoTPUSQcgj4EQ5IlUiLE0Jil3PECXhcHGBhZ8kg4hwxAu3MZeCGeyFnAXp4hqNQPnt7QL0nADpD6wHccLvnAKksq8iiaAAAAAElFTkSuQmCC\"></a></div>\n\t\t\t\t\t\t\t\t    \t\t\t\t<!-- ADV -->\n    \t\t\t\t</div>\n                    <div class=\"rss_container\">\n    \t\t\t\t<a name=\"fe3d53fb99f1d7dcd2fe77e85e70761f\"></a><div class=\"rss\"><table><tbody><tr><td style=\"padding-left:30px\"><h3><a href=\"http://news.yandex.ru/yandsearch?cl4url=www.gazeta.ru%2Fsport%2Fnews%2F2017%2F02%2F21%2Fn_9712367.shtml\" target=\"_blank\">Экс-хоккеист сборной России Буре отказался от гражданства США</a></h3>Известный советский и российский хоккеист Павел Буре, долгое время выступавший в НХЛ, отказался от американского гражданства, передает RT со ссылкой на отчет министерства финансов США. <div class=\"rssdate\"> <br> 21 февраля 2017 09:55:14</div></td></tr></tbody></table>\n\t\t\t\t\t\t\t\t<a href=\"http://news.yandex.ru/yandsearch?cl4url=www.gazeta.ru%2Fsport%2Fnews%2F2017%2F02%2F21%2Fn_9712367.shtml\" target=\"_blank\" class=\"gotolink\"> перейти к источнику <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVElEQVR42n3PgQkAIAhEUXdqJ3dqJ3e6IoTPUSQcgj4EQ5IlUiLE0Jil3PECXhcHGBhZ8kg4hwxAu3MZeCGeyFnAXp4hqNQPnt7QL0nADpD6wHccLvnAKksq8iiaAAAAAElFTkSuQmCC\"></a></div>\n\t\t\t\t\t\t\t\t<a name=\"cf7c387a4a431521881a018057b26323\"></a><div class=\"rss\"><table><tbody><tr><td style=\"padding-left:30px\"><h3><a href=\"http://news.yandex.ru/yandsearch?cl4url=www.kommersant.ru%2Fdoc%2F3225226\" target=\"_blank\">Генсек ООН выразил соболезнования в связи со смертью Виталия Чуркина</a></h3>Генеральный секретарь Организации Объединенных Наций Антониу Гутерреш принес соболезнования российскому правительству и семье умершего вчера постоянного представителя России при ООН Виталия Чуркина. <div class=\"rssdate\"> <br> 21 февраля 2017 09:21:00</div></td></tr></tbody></table>\n\t\t\t\t\t\t\t\t<a href=\"http://news.yandex.ru/yandsearch?cl4url=www.kommersant.ru%2Fdoc%2F3225226\" target=\"_blank\" class=\"gotolink\"> перейти к источнику <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVElEQVR42n3PgQkAIAhEUXdqJ3dqJ3e6IoTPUSQcgj4EQ5IlUiLE0Jil3PECXhcHGBhZ8kg4hwxAu3MZeCGeyFnAXp4hqNQPnt7QL0nADpD6wHccLvnAKksq8iiaAAAAAElFTkSuQmCC\"></a></div>\n\t\t\t\t\t\t\t\t<a name=\"02c458354d5dea029d05eab8a1acedc5\"></a><div class=\"rss\"><table><tbody><tr><td style=\"padding-left:30px\"><h3><a href=\"http://news.yandex.ru/yandsearch?cl4url=sever-press.ru%2Fvse-novosti%2Fitem%2F26384-dmitrij-kobylkin-vyrazil-soboleznovaniya-v-svyazi-s-bezvremennoj-konchinoj-vitaliya-churkina\" target=\"_blank\">Дмитрий Кобылкин выразил соболезнования в связи с безвременной кончиной Виталия Чуркина</a></h3>Губернатор ЯНАО Дмитрий Кобылкин выразил соболезнования в связи с безвременной кончиной постоянного представителя России при ООН Виталия Чуркина. <div class=\"rssdate\"> <br> 21 февраля 2017 09:05:29</div></td></tr></tbody></table>\n\t\t\t\t\t\t\t\t<a href=\"http://news.yandex.ru/yandsearch?cl4url=sever-press.ru%2Fvse-novosti%2Fitem%2F26384-dmitrij-kobylkin-vyrazil-soboleznovaniya-v-svyazi-s-bezvremennoj-konchinoj-vitaliya-churkina\" target=\"_blank\" class=\"gotolink\"> перейти к источнику <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVElEQVR42n3PgQkAIAhEUXdqJ3dqJ3e6IoTPUSQcgj4EQ5IlUiLE0Jil3PECXhcHGBhZ8kg4hwxAu3MZeCGeyFnAXp4hqNQPnt7QL0nADpD6wHccLvnAKksq8iiaAAAAAElFTkSuQmCC\"></a></div>\n\t\t\t\t\t\t\t\t<a name=\"b207b5223648a5183947ce5d41cddba0\"></a><div class=\"rss\"><table><tbody><tr><td style=\"padding-left:30px\"><h3><a href=\"http://news.yandex.ru/yandsearch?cl4url=www.rbc.ru%2Fbusiness%2F21%2F02%2F2017%2F58abd6d89a7947f37d4495be\" target=\"_blank\">ЦБ аннулировал лицензию банка из группы Газпромбанка</a></h3>Банк России аннулировал лицензию на осуществление банковских операций у московского банка «ГПБ-Ипотека». Об этом говорится в сообщении на сайте регулятора. <div class=\"rssdate\"> <br> 21 февраля 2017 09:02:11</div></td></tr></tbody></table>\n\t\t\t\t\t\t\t\t<a href=\"http://news.yandex.ru/yandsearch?cl4url=www.rbc.ru%2Fbusiness%2F21%2F02%2F2017%2F58abd6d89a7947f37d4495be\" target=\"_blank\" class=\"gotolink\"> перейти к источнику <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVElEQVR42n3PgQkAIAhEUXdqJ3dqJ3e6IoTPUSQcgj4EQ5IlUiLE0Jil3PECXhcHGBhZ8kg4hwxAu3MZeCGeyFnAXp4hqNQPnt7QL0nADpD6wHccLvnAKksq8iiaAAAAAElFTkSuQmCC\"></a></div>\n<iframe width=\"250\" height=\"750\" class=\"rssdog\" src=\"http://www.rssdog.com/index.htm?url=http%3A%2F%2Fwww.rssmix.com%2Fu%2F8226342%2Frss.xml&amp;mode=html&amp;showonly=&amp;maxitems=0&amp;showdescs=1&amp;desctrim=0&amp;descmax=0&amp;tabwidth=100%25&amp;utf8=1&amp;linktarget=_blank&amp;textsize=x-small&amp;fullhtml=1&amp;bordercol=%23d4d0c8&amp;headbgcol=%23999999&amp;headtxtcol=%23ffffff&amp;titlebgcol=%23f1eded&amp;titletxtcol=%23000000&amp;itembgcol=%23ffffff&amp;itemtxtcol=%23000000&amp;ctl=0\"></iframe>                    \n\t\t\t\t\t\t\t\t    \t\t\t\t<!-- ADV -->\n    \t\t\t\t</div></blockquote>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/news-item-1.jpg",
+              "active": true
+            }
+          },
+          "subtitle1": "<a href=\"http://mobirise.com\">application</a>",
+          "title1": "<a href=\"http://mobirise.com\">Retina ready</a>",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
+          "date1": "10/09/2016",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/news-item-2.jpg",
+              "active": true
+            }
+          },
+          "subtitle2": "<a href=\"http://mobirise.com\">application</a>",
+          "title2": "<a href=\"http://mobirise.com\">Mobile response</a>",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
+          "date2": "09/09/2016",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/news-item-3.jpg",
+              "active": true
+            }
+          },
+          "subtitle3": "<a href=\"http://mobirise.com\">application</a>",
+          "title3": "<a href=\"http://mobirise.com\">Mobirise Builder</a>",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
+          "date3": "08/09/2016",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" style=\"background-color: rgb(255, 255, 255);\">\n        \n    <div id=\"contact-info\" style=\"padding-top: 100px; padding-bottom: 100px;\">\n        <div class=\"container\">\n            <div class=\"row\">\n                                      \n                        <div class=\"mbr-cards-col col-md-4 col-sm-6 col-xs-12\">\n                            <div class=\"team-item news c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/news-item-1.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                \n                                <h3 class=\"styled mbr-editable-content\" code-editable-id=\"1145\"><a href=\"http://mobirise.com\">Retina ready</a></h3>\n                                <div class=\"separator\"></div>\n <iframe width=\"350\" height=\"550\" class=\"rssdog\" src=\"http://www.rssdog.com/index.htm?url=http%3A%2F%2Fwww.rssmix.com%2Fu%2F8226342%2Frss.xml&amp;mode=html&amp;showonly=&amp;maxitems=0&amp;showdescs=1&amp;desctrim=0&amp;descmax=0&amp;tabwidth=100%25&amp;utf8=1&amp;linktarget=_blank&amp;textsize=x-small&amp;fullhtml=1&amp;bordercol=%23d4d0c8&amp;headbgcol=%23999999&amp;headtxtcol=%23ffffff&amp;titlebgcol=%23f1eded&amp;titletxtcol=%23000000&amp;itembgcol=%23ffffff&amp;itemtxtcol=%23000000&amp;ctl=0\"></iframe>\n                                <span class=\"date mbr-editable-content\" code-editable-id=\"1146\">10/09/2016</span>\n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-4 col-sm-6 col-xs-12\">\n                            <div class=\"team-item news c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/news-item-2.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                \n                                <h3 class=\"styled mbr-editable-content\" code-editable-id=\"1147\"><a href=\"http://mobirise.com\">Mobile response</a></h3>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"1148\"><iframe width=\"250\" height=\"750\" class=\"rssdog\" src=\"http://www.rssdog.com/index.htm?url=http%3A%2F%2Fwww.rssmix.com%2Fu%2F8226342%2Frss.xml&amp;mode=html&amp;showonly=&amp;maxitems=0&amp;showdescs=1&amp;desctrim=0&amp;descmax=0&amp;tabwidth=100%25&amp;utf8=1&amp;linktarget=_blank&amp;textsize=x-small&amp;fullhtml=1&amp;bordercol=%23d4d0c8&amp;headbgcol=%23999999&amp;headtxtcol=%23ffffff&amp;titlebgcol=%23f1eded&amp;titletxtcol=%23000000&amp;itembgcol=%23ffffff&amp;itemtxtcol=%23000000&amp;ctl=0\"></iframe></p>\n                                <span class=\"date mbr-editable-content\" code-editable-id=\"1149\">09/09/2016</span>\n                            </div>\n                        </div>\n\n                        <div class=\"mbr-cards-col col-md-4 col-sm-6 col-xs-12\">\n                            <div class=\"team-item news c-info\">\n                                <div class=\"image\">\n                                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width \"><img src=\"@PROJECT_PATH@/assets/images/news-item-3.jpg\" class=\"mbr-figure__img\"></figure>\n                                </div>\n                                \n                                <h3 class=\"styled mbr-editable-content\" code-editable-id=\"1150\"><a href=\"http://mobirise.com\">Mobirise Builder</a></h3>\n                                <div class=\"separator\"></div>\n                                <p class=\"mbr-editable-content\" code-editable-id=\"1151\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.</p>\n                                <span class=\"date mbr-editable-content\" code-editable-id=\"1152\">08/09/2016</span>\n                            </div>\n                        </div>\n\n                    </div>\n\n                </div>\n\n            </div>\n        \n    \n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
