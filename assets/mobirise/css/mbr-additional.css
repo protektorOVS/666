@@ -364,6 +364,61 @@ a:hover,
 .panel-heading a:hover span:after,
 .panel.active .panel-heading a span:after
 {background: @primaryColor;}
+#menu4-y {
+.hide-buttons .nav-btn {
+	display: none !important;
+}
+.navbar-caption {
+	color: #ffffff;
+}
+.navbar-toggler {
+	color: #989898;
+}
+.close-icon::before, .close-icon::after {
+	background-color: #989898;
+}
+.link, .dropdown-item {
+	color: #989898;
+}
+.link {
+	font-size: 0.75rem;
+}
+.dropdown-item, .nav-dropdown-sm .link {
+	font-size: 0.812rem;
+}
+.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {
+	color: #222;
+}
+.link[aria-expanded="true"], .dropdown-menu {
+	background: #e6e6e6;
+}
+.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {
+	background: #f7f7f7!important;
+}
+.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded="true"], .nav-dropdown-sm .dropdown-menu {
+	background: #fff;
+}
+.bg-color.transparent .link {
+	color: #989898;
+	transition: none;
+}
+.navbar-toggler i, .navbar-toggler em, .navbar-toggler i:before, .navbar-toggler em:before, .navbar-toggler i:after, .navbar-toggler em:after {
+	background: #989898;
+}
+.navbar-toggler[aria-expanded="true"] i, .navbar-toggler[aria-expanded="true"] em {
+	background: transparent;
+}
+.bg-color.transparent.opened .link {
+	transition: color .2s ease-in-out;
+}
+.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {
+	color: #222;
+}
+.link[aria-expanded="true"], .dropdown-item[aria-expanded="true"] {
+	color: #222!important;
+}
+}
+
 #header1-g {
 }
 
@@ -385,9 +440,6 @@ href.rssdog {
 }
 </style>}
 
-#feed-n {
-}
-
 #news1-l {
 <head> </head> area:
 
@@ -396,3 +448,49 @@ href.rssdog {
     font-size:50pt;
 }
 </style>}
+
+#feed-w {
+}
+@primaryColor: #222222;
+@secondaryColor: #46004C;
+@successColor: #2BE080;
+@infoColor: #757575;
+@warningColor: #E0C119;
+@dangerColor: #EB5A1A;
+@titleFont: 'Oswald', sans-serif;
+@subtitleFont: 'Lato', sans-serif;
+@textFont: 'Oswald', sans-serif;
+@isRoundedButtons: false;
+
+#content4-o {
+ <head> </head> area:
+
+<style type="text/css">
+.rssdog {
+    font-size:10pt;
+}
+</style>}
+
+#custom-html-p {
+/* Type valid CSS here */
+.my-image {
+  width: 100%;
+}}
+
+#custom-html-q {
+/* Type valid CSS here */
+.my-image {
+  width: 100%;
+}}
+
+#custom-html-t {
+/* Type valid CSS here */
+.my-image {
+  width: 100%;
+}}
+
+#custom-html-v {
+/* Type valid CSS here */
+.my-image {
+  width: 100%;
+}}
